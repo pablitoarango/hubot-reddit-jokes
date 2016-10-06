@@ -1,7 +1,7 @@
 {
   "name": "hubot-reddit-jokes",
-  "description": "A hubot script that retreives random reddit jokes",
-  "version": "0.0.8",
+  "description": "This project has been renamed to hubot-jokes. Install using hubot-jokes instead.",
+  "version": "0.0.9",
   "author": {
     "name": "Pablo Arango",
     "email": "pabloaran17@gmail.com",
